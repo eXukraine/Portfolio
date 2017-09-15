@@ -1,0 +1,959 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pos",
+				"pos:r\tposition:relative"
+			],
+			[
+				"bu",
+				"button\tTag"
+			],
+			[
+				"d",
+				"d:n\tdisplay:none"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"col",
+				"column"
+			],
+			[
+				"flx",
+				"flex-direction"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"bgs",
+				"bgsz-a\tbackground-size: auto;"
+			],
+			[
+				"flex",
+				"flex-wrap"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"get_temo",
+				"get_template_directory_uri"
+			],
+			[
+				"wp_enque",
+				"wp_enqueue_script"
+			],
+			[
+				"get_tempalte",
+				"get_template_directory_uri"
+			],
+			[
+				"wp_enuqe",
+				"wp_enqueue_style"
+			],
+			[
+				"get_ur",
+				"get_url_in_content"
+			],
+			[
+				"get_template",
+				"get_template_directory_uri"
+			],
+			[
+				"get_tema",
+				"get_template_directory_uri"
+			],
+			[
+				"wp_e",
+				"wp_enqueue_script"
+			],
+			[
+				"get_tem",
+				"get_template_directory_uri"
+			],
+			[
+				"get_te",
+				"get_template_directory"
+			],
+			[
+				"add",
+				"add_action"
+			],
+			[
+				"get_sty",
+				"get_stylesheet_directory_uri"
+			],
+			[
+				"get_STY",
+				"get_stylesheet_directory"
+			],
+			[
+				"sty",
+				"stylesheet_directory"
+			],
+			[
+				"wp_enqu",
+				"wp_enqueue_style"
+			],
+			[
+				"blog",
+				"bloginfo"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"style",
+				"stylesheet_uri"
+			],
+			[
+				"_",
+				"_css"
+			],
+			[
+				"ju",
+				"justify"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"in",
+				"inline-flex"
+			],
+			[
+				"fle",
+				"flex-wrap"
+			],
+			[
+				"bb",
+				"border-box"
+			],
+			[
+				"w",
+				"wrap"
+			],
+			[
+				"align",
+				"text-align"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"space",
+				"space-between"
+			],
+			[
+				"j",
+				"justify"
+			],
+			[
+				"spa",
+				"space-between"
+			],
+			[
+				"co",
+				"cover"
+			],
+			[
+				"ba",
+				"background-repeat"
+			],
+			[
+				"bra",
+				"border-radius"
+			],
+			[
+				"ff",
+				"ff-s\tfont-family: serif;"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"LO",
+				"logo"
+			],
+			[
+				"tea",
+				"text-align"
+			],
+			[
+				"aling",
+				"align-self"
+			],
+			[
+				"mh",
+				"mih\tmin-height"
+			],
+			[
+				"f-w",
+				"font-weight"
+			],
+			[
+				"fl",
+				"flex"
+			],
+			[
+				"mw",
+				"max-width"
+			],
+			[
+				"a",
+				"alert:info\tinfo"
+			],
+			[
+				"th",
+				"thickness"
+			],
+			[
+				"line",
+				"lineCap"
+			],
+			[
+				"start",
+				"startAngle"
+			],
+			[
+				"pro",
+				"progress"
+			],
+			[
+				"border-rad",
+				"border-radius"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"b",
+				"border"
+			],
+			[
+				"bn",
+				"bd-n\tborder: none;"
+			],
+			[
+				"t",
+				"table-caption"
+			],
+			[
+				"bgi",
+				"bgi-n\tbackground-image: none;"
+			],
+			[
+				"colr",
+				"color-accent"
+			],
+			[
+				"border-col",
+				"border-color"
+			],
+			[
+				"O",
+				"OpenSans-Bold"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"f-z",
+				"font-size"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"al",
+				"align-items"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"f-si",
+				"font-size"
+			],
+			[
+				"f",
+				"flex"
+			],
+			[
+				"o",
+				"overflow"
+			],
+			[
+				"flex-",
+				"flex-flow"
+			],
+			[
+				"b-r",
+				"border-radius"
+			],
+			[
+				"bg-i",
+				"background-image"
+			],
+			[
+				"i",
+				"i\tTag"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"box-s",
+				"box-sizing"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"pre",
+				"prev_img"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"img",
+				"img1"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"p",
+				"p"
+			],
+			[
+				"adm",
+				"adm_pas"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"main",
+				"main_bot_line"
+			],
+			[
+				"border-ra",
+				"border-radius"
+			],
+			[
+				"padidn",
+				"padding-right"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"border-s",
+				"border-bottom-style"
+			],
+			[
+				"border-bo",
+				"border-bottom"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"color",
+				"color"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"bg",
+				"background-image"
+			],
+			[
+				"se",
+				"section\tTag"
+			],
+			[
+				"br",
+				"border-right"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"l",
+				"link\tTag"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"boder-r",
+				"border-top-right-radius"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"ar",
+				"article\tTag"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"s",
+				"span\tTag"
+			],
+			[
+				"border-radius",
+				"border-top-left-radius"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.js",
+			"settings":
+			{
+				"buffer_size": 161,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 226.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"",
+				"Set Syntax: Sass"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"LiveReload: Enable",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"livereload",
+				"Snippet: Insert livereload.js script"
+			],
+			[
+				"Snippet: ",
+				"Snippet: <?php else: ?>"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 132.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Documents and Settings/Home/Application Data/Sublime Text 3/Packages/TernJS/TernJS.sublime-settings",
+		"/C/Documents and Settings/Home/Application Data/Sublime Text 3/Packages/Babel/Babel.sublime-settings",
+		"/D/Sytes/Portfolio/_css/main.css",
+		"/D/HTML_PHP/jquery-1.12.1.js",
+		"/D/Sytes/Portfolio/libs/full-width-slider.slider/js/jssor.slider-22.2.16.debug.js",
+		"/Q/home/localhost/www/Vorota/wp-login.php",
+		"/D/Sytes/Alyona/Index.html",
+		"/D/Sytes/Alyona/js/main.js",
+		"/D/Sytes/Alyona/css/style.css",
+		"/D/HTML_PHP/Video/AdobePhotoshopCS5Extended12.0Final[Русский]/Файл Read Me для Photoshop CS5.pdf",
+		"/C/Documents and Settings/Home/Рабочий стол/Безимени-1.psd",
+		"/Q/home/localhost/www/primer/index.php",
+		"/D/Sytes/Alyona/pages/About.html",
+		"/D/Sytes/Alyona/fonts/fonts.css",
+		"/D/Sytes/Vorota/js/main.js",
+		"/D/Sytes/Vorota/Index.html",
+		"/D/Sytes/Vorota/css/main.css",
+		"/D/Sytes/Alyona/About.html",
+		"/D/Баня Саня/Tab Version/_css/media.css",
+		"/D/Баня Саня/Tab Version/Index.html",
+		"/D/Баня Саня/Tab Version/_css/main.css",
+		"/Q/home/localhost/www/sauna.ru/wp-content/themes/myThemes/page-home-page.php",
+		"/Q/home/localhost/www/sauna.ru/wp-content/themes/myThemes/functions.php",
+		"/Q/home/localhost/www/sauna.ru/readme.html",
+		"/D/Bouncy-Landing/Index.html",
+		"/Q/home/localhost/www/sauna.ru/wp-content/themes/myThemes/css/main.css",
+		"/Q/home/localhost/www/sauna.ru/wp-content/themes/myThemes/js/main.js",
+		"/Q/home/localhost/www/sauna.ru/wp-content/themes/myThemes/js/owl.carousel.min.js",
+		"/D/Sytes/Exponet/index.html",
+		"/Q/home/localhost/www/sauna.ru/wp-content/themes/myThemes/css/fonts.css",
+		"/Q/home/localhost/www/sauna.ru/wp-content/themes/myThemes/css/owl.carousel.css",
+		"/Q/home/localhost/www/sauna.ru/wp-content/themes/myThemes/template-parts/content.php",
+		"/Q/home/localhost/www/sauna.ru/wp-content/themes/myThemes/Index.php",
+		"/Q/home/localhost/www/sauna.ru/wp-content/themes/myThemes/style.css",
+		"/Q/home/localhost/www/sauna.ru/wp-content/themes/myThemes/template-parts/content-home.php",
+		"/Q/home/localhost/www/sauna.ru/wp-content/themes/twentyseventeen/footer.php",
+		"/Q/home/localhost/www/sauna.ru/wp-content/themes/twentyseventeen/index.php",
+		"/Q/home/localhost/www/sauna.ru/wp-content/themes/twentyseventeen/header.php",
+		"/D/WebServer/home/localhost/www/wp/wp-content/themes/sauna-ru/sauna-ru/header.php",
+		"/D/WebServer/home/localhost/www/wp/wp-content/themes/sauna-ru/sauna-ru/functions.php",
+		"/Q/home/localhost/www/sauna.ru/wp-config.php",
+		"/Q/home/localhost/www/sauna.ru/wp-login.php",
+		"/C/Documents and Settings/Home/Мои документы/Downloads/sauna-ru/sauna-ru/functions.php",
+		"/D/WebServer/home/localhost/www/wp/wp-content/themes/sauna-ru/sauna-ru/index.php",
+		"/D/WebServer/home/localhost/www/banya/Index.php",
+		"/D/WebServer/home/localhost/www/wp/wp-content/themes/sauna-ru/sauna-ru/style.css",
+		"/C/Documents and Settings/Home/Мои документы/Downloads/sauna-ru/sauna-ru/style.css",
+		"/D/WebServer/home/localhost/www/wp/wp-content/themes/sauna-ru/sauna-ru/footer.php",
+		"/D/WebServer/home/localhost/www/wp/wp-content/themes/sauna-ru/sauna-ru/page.php",
+		"/D/WebServer/home/localhost/www/sauna.ru/wp-content/themes/twentyseventeen/page.php",
+		"/D/WebServer/home/localhost/www/wp/wp-content/themes/twentyfifteen/page.php",
+		"/D/WebServer/home/localhost/www/wp/wp-blog-header.php",
+		"/D/WebServer/home/localhost/www/wp/wp-login.php",
+		"/D/WebServer/home/localhost/www/wp/wp-config.php",
+		"/D/WebServer/home/localhost/www/wp/.htaccess",
+		"/Q/home/localhost/www/Banya/wp-config-sample.php",
+		"/Q/home/localhost/www/Slon/wp-content/themes/slon/Index.php",
+		"/D/Баня Саня/Tab Version/slon/slon/header.php",
+		"/D/Баня Саня/Tab Version/slon/slon/page.php",
+		"/D/Баня Саня/Tab Version/slon/slon/index.php",
+		"/Q/home/localhost/www/Slon/index.php",
+		"/D/Баня Саня/Tab Version/slon/slon/style.css",
+		"/Q/home/localhost/www/Slon/wp-admin/index.php",
+		"/Q/home/localhost/www/Slon/style.css",
+		"/Q/home/localhost/www/Slon/.htaccess",
+		"/D/Баня Саня/Tab Version/_css/owl.transitions.css",
+		"/D/Баня Саня/Tab Version/_css/owl.theme.css",
+		"/D/Баня Саня/Tab Version/_css/owl.carousel.css",
+		"/D/Баня Саня/Banya/Index.html",
+		"/D/Баня Саня/Banya/_css/main.css",
+		"/D/Баня Саня/Tab Version/_js/main.js",
+		"/D/Sytes/Magnate/index.html",
+		"/D/Баня Саня/Tab Version/_js/initializers.js",
+		"/D/Баня Саня/Banya/_css/stylesheet.css",
+		"/D/Sytes/Exponet/_css/main.css",
+		"/D/HTML_PHP/Tabslet-master/Tabslet-master/index1.html",
+		"/D/HTML_PHP/Tabslet-master/Tabslet-master/demo/stylesheets/styles.css",
+		"/D/HTML_PHP/Tabslet-master/Tabslet-master/demo/index.html",
+		"/D/Banya/Index.html",
+		"/D/Banya/Uslugi.html",
+		"/D/Sytes/Magnate/_js/jquery.tabslet.min.js",
+		"/D/Sytes/Serega/Index.html",
+		"/D/Sytes/Serega/_js/tab.js",
+		"/C/Documents and Settings/Home/Рабочий стол/Test.html",
+		"/D/Portfolio/Index.html",
+		"/D/Portfolio/_css/main.sass",
+		"/D/Banya/_js/main.js",
+		"/D/Banya/_css/main.sass",
+		"/Q/home/localhost/www/Slon/wp-content/themes/start/header.php",
+		"/D/Banya/_css/stylesheet.css",
+		"/Q/home/localhost/www/Slon/wp-content/themes/start/index.php",
+		"/Q/home/localhost/www/Slon/wp-content/themes/start/page.php",
+		"/Q/home/localhost/www/Slon/wp-content/themes/start/footer.php",
+		"/Q/home/localhost/www/Slon/wp-content/themes/twentyfourteen/footer.php",
+		"/Q/home/localhost/www/Slon/wp-blog-header.php",
+		"/Q/home/localhost/www/Slon/wp-content/themes/Bath/page.php",
+		"/Q/home/localhost/www/Slon/wp-content/themes/Bath/footer.php",
+		"/Q/home/localhost/www/Slon/wp-content/themes/Bath/header.php",
+		"/D/Bouncy-Landing/_css/fonts.css",
+		"/D/Sytes/Magnate/_css/main.css",
+		"/D/Banya/_js/owl.carousel.min.js",
+		"/D/Banya/_css/owl.carousel.css",
+		"/D/Banya/_css/owl.theme.css",
+		"/D/Bouncy-Landing/_css/main.sass",
+		"/D/Bouncy-Landing/_css/variables.scss",
+		"/C/Documents and Settings/Home/Application Data/Sublime Text 3/Packages/User/LiveReload.sublime-settings",
+		"/C/Documents and Settings/Home/Application Data/Sublime Text 3/Packages/LiveReload/LiveReload.sublime-settings",
+		"/Q/home/localhost/www/Slon/wp-config.php",
+		"/Q/home/localhost/www/Slon/wp-config-sample.php",
+		"/D/Bouncy-Landing/_css/main.scss",
+		"/D/HTML_PHP/bootstrap/css/bootstrap.css",
+		"/C/Documents and Settings/Home/Мои документы/Загрузки/bootstrap-4.0.0-alpha.2/bootstrap-4.0.0-alpha.2/dist/js/umd/carousel.js",
+		"/D/Bouncy-Landing/_js/circle.js",
+		"/C/Documents and Settings/Home/Application Data/Sublime Text 3/Packages/User/color_helper.sublime-settings",
+		"/C/Documents and Settings/Home/Мои документы/Загрузки/bootstrap-4.0.0-alpha.2/bootstrap-4.0.0-alpha.2/dist/css/bootstrap.css",
+		"/C/Documents and Settings/Home/Мои документы/Загрузки/bootstrap-4.0.0-alpha.2/bootstrap-4.0.0-alpha.2/dist/js/bootstrap.js",
+		"/W/HTML/jquery-circle-progress-1.2.0/jquery-circle-progress-1.2.0/docs/index.html",
+		"/W/HTML/jquery-circle-progress-1.2.0/jquery-circle-progress-1.2.0/docs/styles.css",
+		"/D/Bouncy-Landing/_js/circle-progress.min.js",
+		"/W/HTML/jquery-circle-progress-1.2.0/jquery-circle-progress-1.2.0/docs/examples.js",
+		"/D/Bouncy-Landing/_js/main.js",
+		"/W/HTML/jquery-circle-progress-1.2.0/jquery-circle-progress-1.2.0/dist/circle-progress.js",
+		"/D/Sytes/Mavis_bootstrap/_js/bootstrap.js",
+		"/D/Bouncy-Landing/_css/main-min.css",
+		"/D/Bouncy-Landing/_css/main.css",
+		"/D/Bouncy-Landing/_js/jquery-2.2.2.js",
+		"/C/Documents and Settings/Home/Мои документы/Загрузки/bootstrap-4.0.0-alpha.2/bootstrap-4.0.0-alpha.2/scss/_carousel.scss",
+		"/C/Documents and Settings/Home/Мои документы/Загрузки/bootstrap-4.0.0-alpha.2/bootstrap-4.0.0-alpha.2/scss/_buttons.scss"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"false",
+			"setinterval",
+			"auto",
+			";",
+			"}",
+			"{",
+			";",
+			".text",
+			".center",
+			"progress",
+			".nav-tabs",
+			".nav",
+			"ul",
+			"li",
+			".nav",
+			"nav",
+			"carousel-control",
+			".active",
+			";\n",
+			".carousel",
+			"20px",
+			"carusel",
+			".active",
+			"demo",
+			"tabs",
+			"active",
+			".ui-state-a",
+			"elemData.handle",
+			"tabs",
+			" \"></",
+			";\n",
+			".loading",
+			"%\n",
+			".loading",
+			">\n",
+			".active",
+			"fixed",
+			".fixed",
+			".navbar-fixed-top",
+			"fixed",
+			"dotted",
+			"btn-default",
+			".disabled",
+			"i",
+			"icon",
+			"input",
+			"search",
+			"Main",
+			":hover",
+			"\n.a",
+			";\n",
+			".pull-right",
+			".container",
+			".right",
+			"container",
+			";\n",
+			".nav ",
+			".right",
+			"nav",
+			"nav-",
+			"header",
+			"background-color",
+			"body",
+			"ALexei",
+			"30px",
+			"tbody",
+			"t.body",
+			"yellow",
+			";\n",
+			"header_nav"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 161,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								161,
+								161
+							]
+						],
+						"settings":
+						{
+							"color_helper.box_height": 24,
+							"color_helper.color_scheme": "Packages/Color Scheme - Default/Monokai Bright.tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": ".js",
+								"current_syntax": "JavaScript/JavaScript",
+								"enabled": false,
+								"last_updated": 1489591321.23
+							},
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 118.0
+	},
+	"pinned_build_system": "",
+	"project": "main.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

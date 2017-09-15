@@ -1,0 +1,29 @@
+{
+    "items": [
+        {
+            "src": "_images/img1.jpg",
+            "title": "Image 1"
+            
+        },
+        {
+            "src": "_images/img2.jpg",
+            "title": "Image 2"
+        },
+        {
+            "src": "_images/img3.jpg",
+            "title": "Image 3"
+        },
+        {
+            "src": "_images/img4.jpg",
+            "title": "Image 4"
+        },
+        {
+            "src": "_images/img5.jpg",
+            "title": "Image 5"
+        },
+        {
+            "src": "_images/img6.jpg",
+            "title": "Image 6"
+        }
+    ]
+}
