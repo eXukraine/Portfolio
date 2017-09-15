@@ -188,17 +188,37 @@ header {
 		font-weight: 700;
 		text-transform: uppercase;
 		font-size: 1rem;
+		&:hover {
+			background-color: #2A3A3F;
+			padding: 10px 50px;
+			transition: background-color 0.5s, padding 0.5s, color 0.5s;
+			color: $accent_color;
+		}
 	}
 	.modal {
 		left: 0;
 		top: 0;
-		position: absolute;
 		z-index: 2;
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+		background-color: #2A3A3F;
+		height: 100%;
 		form {
-			display: block;
 		}
 		input {
-			width: 300px;
+			width: auto;
+		}
+		.email {
+			display: flex;
+			justify-content: space-between;
+			padding-bottom: 20px;
+		}
+		.name {
+			width: 50%;
+		}
+		textarea {
+
 		}
 	}
 }
