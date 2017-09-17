@@ -92,21 +92,29 @@
 				<h1>Whant to work together?</h1>
 				<p>I'm currently accepting new projects and would love to hear about yours. Please take a few minutes to tell me about it.
 				</p>
-				<a href="#">Get Started</a>
+				<button class="modal_btn"> Get Started</button>
 				<div class="modal">
+					<span class="closeBtn">&times;</span>
 					<form action="https://usebasin.com/f/72728a4c7bb1" method="POST">
+						<div class="modal_h1">
+							<h2>Ok, just a few quick questions.</h2>
+							<p>After you introduce yourself and your project, I'll get in touch with you to schedule a time to chat. You should expect to hear from me in a day or so.</p>
+						</div>
 						<div class="email">
+							
+
 							<input type="email" placeholder="E-Mail" required="">
-						
-						
+									
 							<input type="text" placeholder="Your Name">
 						</div>
-						<textarea name="modal_txt" id="" cols="40" rows="10" placeholder="Tell me about your project... what is it? Why are you doing it? What do you hope to accomplish? How can I help? Timeline and budget details are also appreciated. *"></textarea><br>
-						<button type="submit">Send</button> 
+						<textarea name="modal_txt" id="" cols="50" rows="10" placeholder="Tell me about your project... what is it? Why are you doing it? What do you hope to accomplish? How can I help? Timeline and budget details are also appreciated. *"></textarea>
+
+						<br>
+						<input type="submit" class="modal_btn send"> 
 					</form>
 				</div>
 			</section>
-			<footer>
+			<footer id="footer">
 				<p>Handmade by me © 2017.</p>
 				<div class="social">
 					<ul>
